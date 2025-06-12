@@ -1,4 +1,4 @@
-mlflow
+mlflow //Library to viualize the models, compare and understand the models after training
 scikit-learn
 pandas
 numpy
