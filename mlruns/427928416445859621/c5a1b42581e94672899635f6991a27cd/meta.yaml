@@ -1,0 +1,16 @@
+artifact_uri: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/c5a1b42581e94672899635f6991a27cd/artifacts
+deleted_time: 1749797684690
+end_time: 1749797475650
+entry_point_name: ''
+experiment_id: '427928416445859621'
+lifecycle_stage: deleted
+run_id: c5a1b42581e94672899635f6991a27cd
+run_name: likeable-bird-730
+run_uuid: c5a1b42581e94672899635f6991a27cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749797475607
+status: 4
+tags: []
+user_id: akshayg

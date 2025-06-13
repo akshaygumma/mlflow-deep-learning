@@ -1,0 +1,16 @@
+artifact_uri: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/5da623a2c4314ad198176e9fe2a0a773/artifacts
+deleted_time: 1749797679744
+end_time: 1749796837021
+entry_point_name: ''
+experiment_id: '427928416445859621'
+lifecycle_stage: deleted
+run_id: 5da623a2c4314ad198176e9fe2a0a773
+run_name: adventurous-calf-662
+run_uuid: 5da623a2c4314ad198176e9fe2a0a773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749796836993
+status: 4
+tags: []
+user_id: akshayg

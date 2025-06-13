@@ -1,0 +1,16 @@
+artifact_uri: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/136cb79f4e744c0eb2713ba72f916955/artifacts
+deleted_time: 1749797688090
+end_time: 1749797269458
+entry_point_name: ''
+experiment_id: '427928416445859621'
+lifecycle_stage: deleted
+run_id: 136cb79f4e744c0eb2713ba72f916955
+run_name: big-crow-665
+run_uuid: 136cb79f4e744c0eb2713ba72f916955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749797269424
+status: 4
+tags: []
+user_id: akshayg

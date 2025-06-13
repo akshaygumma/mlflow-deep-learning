@@ -1,7 +1,8 @@
-mlflow //Library to viualize the models, compare and understand the models after training
+mlflow #Library to viualize the models, compare and understand the models after training
 scikit-learn
 pandas
 numpy
 keras
 tensorflow
 hyperopt
+uv

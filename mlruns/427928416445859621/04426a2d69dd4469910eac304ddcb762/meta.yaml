@@ -1,0 +1,16 @@
+artifact_uri: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/04426a2d69dd4469910eac304ddcb762/artifacts
+deleted_time: 1749797691810
+end_time: 1749796988751
+entry_point_name: ''
+experiment_id: '427928416445859621'
+lifecycle_stage: deleted
+run_id: 04426a2d69dd4469910eac304ddcb762
+run_name: bright-chimp-683
+run_uuid: 04426a2d69dd4469910eac304ddcb762
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749796988726
+status: 4
+tags: []
+user_id: akshayg

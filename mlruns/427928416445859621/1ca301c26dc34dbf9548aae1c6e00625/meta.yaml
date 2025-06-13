@@ -1,0 +1,16 @@
+artifact_uri: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/1ca301c26dc34dbf9548aae1c6e00625/artifacts
+deleted_time: 1749797679743
+end_time: 1749797269462
+entry_point_name: ''
+experiment_id: '427928416445859621'
+lifecycle_stage: deleted
+run_id: 1ca301c26dc34dbf9548aae1c6e00625
+run_name: upset-mouse-774
+run_uuid: 1ca301c26dc34dbf9548aae1c6e00625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749797269388
+status: 4
+tags: []
+user_id: akshayg

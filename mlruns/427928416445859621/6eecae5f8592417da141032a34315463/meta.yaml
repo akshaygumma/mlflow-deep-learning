@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/6eecae5f8592417da141032a34315463/artifacts
+end_time: 1749797597715
+entry_point_name: ''
+experiment_id: '427928416445859621'
+lifecycle_stage: active
+run_id: 6eecae5f8592417da141032a34315463
+run_name: righteous-bass-383
+run_uuid: 6eecae5f8592417da141032a34315463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749797590298
+status: 3
+tags: []
+user_id: akshayg

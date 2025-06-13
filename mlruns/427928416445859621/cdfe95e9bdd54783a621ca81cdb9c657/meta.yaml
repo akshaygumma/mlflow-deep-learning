@@ -1,0 +1,16 @@
+artifact_uri: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/cdfe95e9bdd54783a621ca81cdb9c657/artifacts
+deleted_time: 1749797679743
+end_time: 1749796988753
+entry_point_name: ''
+experiment_id: '427928416445859621'
+lifecycle_stage: deleted
+run_id: cdfe95e9bdd54783a621ca81cdb9c657
+run_name: unleashed-mule-848
+run_uuid: cdfe95e9bdd54783a621ca81cdb9c657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749796988622
+status: 4
+tags: []
+user_id: akshayg

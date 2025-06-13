@@ -1,0 +1,15 @@
+artifact_uri: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/0044c419d8e648c384ee8bbecda8be72/artifacts
+end_time: 1749797604552
+entry_point_name: ''
+experiment_id: '427928416445859621'
+lifecycle_stage: active
+run_id: 0044c419d8e648c384ee8bbecda8be72
+run_name: worried-snake-986
+run_uuid: 0044c419d8e648c384ee8bbecda8be72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749797561179
+status: 3
+tags: []
+user_id: akshayg

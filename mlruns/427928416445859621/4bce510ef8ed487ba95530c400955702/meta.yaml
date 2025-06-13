@@ -1,0 +1,16 @@
+artifact_uri: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/4bce510ef8ed487ba95530c400955702/artifacts
+deleted_time: 1749797679742
+end_time: 1749797475654
+entry_point_name: ''
+experiment_id: '427928416445859621'
+lifecycle_stage: deleted
+run_id: 4bce510ef8ed487ba95530c400955702
+run_name: resilient-ape-639
+run_uuid: 4bce510ef8ed487ba95530c400955702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749797475569
+status: 4
+tags: []
+user_id: akshayg

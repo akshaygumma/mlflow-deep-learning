@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749797844136
+current_stage: None
+description: ''
+last_updated_timestamp: 1749797844136
+name: Final_Model
+run_id: 0044c419d8e648c384ee8bbecda8be72
+run_link: ''
+source: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/0044c419d8e648c384ee8bbecda8be72/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Volumes/Workspace/Training/mlflow-deep-learning/mlruns/427928416445859621/0044c419d8e648c384ee8bbecda8be72/artifacts/model
+user_id: null
+version: 1
